@@ -1,0 +1,1 @@
+ALTER TABLE branches ADD COLUMN bank_name VARCHAR(100);
